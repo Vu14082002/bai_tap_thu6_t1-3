@@ -42,4 +42,4 @@ const calcAverage = function (arr) {
   }
   return sum / arr.length;
 };
-console.log("Avg totals:", calcAverage(totals));
+console.log("Avg Totals:", calcAverage(totals));
